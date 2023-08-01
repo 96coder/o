@@ -1,0 +1,30 @@
+{
+    "oriapi": "",
+    "ad": {
+        "bnr": "ca-app-pub-3940256099942544/6300978111",
+        "itr": "ca-app-pub-3940256099942544/1033173712",
+        "rwd": "ca-app-pub-3940256099942544/5224354917",
+        "openad": "ca-app-pub-3940256099942544/3419835294"
+    },
+    "api": {
+        "live": "https://mfot.sgp1.digitaloceanspaces.com/api-data.json",
+        "hl": "https://mfot.sgp1.digitaloceanspaces.com/api-hl.json",
+        "news": "https://mfot.sgp1.cdn.digitaloceanspaces.com/api-news.json"
+    },
+    "version": "1.0.0",
+    "force": 0,
+    "update": [
+        {
+            "name": "Playstore",
+            "url": "https://google.com"
+        }
+    ],
+    "msg": "This is Message",
+    "slides": [
+        {
+            "title": "Myan Fot App",
+            "img": "https://e0.365dm.com/20/06/2048x1152/skysports-premier-league-restart_5015502.jpg",
+            "url": "https://google.com"
+        }
+    ]
+}
