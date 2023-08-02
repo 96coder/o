@@ -27,37 +27,37 @@
         {
             "title": "Mahar Esport",
             "thumbnail": "https://i.ibb.co/YtS65n3/1.png",
-            "url": ""
+            "url": "https://tv.mahar.live/esports/mahar.stream/esports/mahar1/chunks.m3u8"
         },
         {
             "title": "MRTV-4",
             "thumbnail": "https://i.ibb.co/ZTxg3Gp/4.jpg",
-            "url": ""
+            "url": "https://pp-live.b-cdn.net/bcdn_token=b2qOV8tOwHgNBOg41iEXcEc3Jt2uOqa9SJ4JgJsa8RM&expires=1690992948&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8"
         },
         {
             "title": "Channel 7",
             "thumbnail": "https://i.ibb.co/84T8wxW/ch7.jpg",
-            "url": ""
+            "url": "https://pp-live.b-cdn.net/bcdn_token=KELu7TFywNH3Rv9_PuLNwrLIC_ksYDznRf1N2pmLvMU&expires=1690992986&token_path=%2FLiveApp%2F/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8"
         },
         {
             "title": "Channel 9",
             "thumbnail": "https://i.ibb.co/vL7kCqX/c9.jpg",
-            "url": ""
+            "url": "https://streammain.myanmartvchannels.com:999/website-channel9-stream/website-channel9-stream/chunks.m3u8?nimblesessionid=604486&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjMgMzoxNjo1MSBQTSZoYXNoX3ZhbHVlPUxhbE94clkrQzc0K2xpSzl4UkZiSFE9PSZ2YWxpZG1pbnV0ZXM9NjAmc3RybV9sZW49NDc="
         },
         {
             "title": "5 Plus",
             "thumbnail": "https://i.ibb.co/gr9yM8T/5-Plus.jpg",
-            "url": ""
+            "url": "https://streammain.myanmartvchannels.com:999/website-channel9-stream/website-channel9-stream/chunks.m3u8?nimblesessionid=604486&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjMgMzoxNjo1MSBQTSZoYXNoX3ZhbHVlPUxhbE94clkrQzc0K2xpSzl4UkZiSFE9PSZ2YWxpZG1pbnV0ZXM9NjAmc3RybV9sZW49NDc="
         },
         {
             "title": "Fortune TV",
             "thumbnail": "https://i.ibb.co/q1W22nq/fortune.webp",
-            "url": ""
+            "url": "https://streammain.myanmartvchannels.com:999/website-fortune-stream/website-fortune-stream/chunks.m3u8?nimblesessionid=604492&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjMgMzoxNzo0NiBQTSZoYXNoX3ZhbHVlPVB4cHBoNS9uSG1XdW1YQ1djMkVwYkE9PSZ2YWxpZG1pbnV0ZXM9NjAmc3RybV9sZW49NDU="
         },
         {
             "title": "Channel K",
             "thumbnail": "https://i.ibb.co/ZYRmCy0/k.jpg",
-            "url": ""
+            "url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_mobile/index.m3u8"
         }
     ]
 }
