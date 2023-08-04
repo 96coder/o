@@ -1,6 +1,7 @@
 @echo off
 echo.
 git status
+echo.
 echo ========== Upload ================
 echo.
 git add .
