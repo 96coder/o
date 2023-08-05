@@ -2,6 +2,46 @@
     "data": [
         {
             "p": false,
+            "title": "SSIS-187",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/961.jpg"
+            },
+            "desc": "အထူး၀န်ဆောင်မှုနဲ့နာမည်ကြီးနေတဲ့ဟိုတယ်က ဘာတွေဒီလောက်ကောင်းနေလိုနာမည်ကြီးနေလဲဆိုတာကို ဒီကားလေးကြည့်ပီးအဖြေရှာလိုက်ကြဗျို ...( ",
+            "year": "2021",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NWIlmREwn2HQvf7B6E1/IONdiaj1O7iIzsBvNRnG1",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/22appne4mest8bd",
+                    "size": "552MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Decensored"
+            ]
+        },
+        {
+            "p": false,
             "title": "Satisfactions",
             "img": {
                 "potrait": true,
