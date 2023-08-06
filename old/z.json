@@ -63,6 +63,26 @@
                     "srt": ""
                 },
                 {
+                    "name": "G-Server",
+                    "url": "https://drive.google.com/uc?id=1o1MQlDYJFON1tz39mv1pDYbTWA5PfwcX&export=download",
+                    "size": "1.3 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "G-Server",
+                    "url": "https://drive.google.com/uc?id=1E061LWBmc7v_y9xuoYy9WkkUfcKXdXfa&export=download",
+                    "size": "677 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
                     "name": "CM-Server",
                     "url": "https://channelmyanmar.org/18-resemblance-2023/",
                     "size": "677 MB",
