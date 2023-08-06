@@ -24,6 +24,16 @@
                     "srt": ""
                 },
                 {
+                    "name": "G-Server",
+                    "url": "https://drive.google.com/uc?id=1SRs4JW2Hpuu2kmPx2E-jgUWKA0Mo4TYm&export=download",
+                    "size": "1.86 GB",
+                    "quality": "FHD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
                     "name": "Download Only (Megaup)",
                     "url": "https://megaup.net/2BW0B",
                     "size": "1.19 GB",
