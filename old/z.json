@@ -2,6 +2,86 @@
     "data": [
         {
             "p": false,
+            "title": "CJOD-376",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/962.jpg"
+            },
+            "desc": "လူနာကိုနာလန်ကောက်ကာငင်ကာထထိုင်ဖိုမမJuliaတယောက် ဘယ်လိုသက်သာစေမယ့်နည်းလမ်းတွေနဲ့ ကုမလဲဆိုတာကိုကြည့်လိုက်ကြပါအုန်း...( ",
+            "year": "2023",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EUJFzakQ2/d3SUzVpQeCbKDDJ3+4wO+N1Ty5mP8PU",
+                    "size": "1.9GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/yd11tjbj8wkq7e6",
+                    "size": "764MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Decensored"
+            ]
+        },
+        {
+            "p": false,
+            "title": "DRTP-015",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/369.jpg"
+            },
+            "desc": "အင်းစက်ဇာတ်ကားလေးဖြစ်ပြီး ဆယ်ကျော်သက်မင်းသမီးလေး Lara Kudo နဲ့ ဦးလေး ၂ယောက်ကြမ်းကြတဲ့ကားလေးပါ..ကလေးလေးလိုမျက်နှာလေးနဲ့ အထက်တန်းကျောင်းသူမလေး Lara Kudo တစ်ယောက် သူမအဘိုးမွေးနေ့မှာ အမျိုးတွေစုံပြီး ဦးလေး ၂ယောက်နဲ့ပြန်တွေ့ပါတယ် ဦးလေး ၂ယောက်ကလဲ အိပ်စရာနေရာမရှိလို့ သူမဘေးမှာဝင်အိပ်ရင်းနဲ့.....( ",
+            "year": "2022",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NedZISFQxv2Pn/KIw0mRpZfgpBswDcSPVSxLrJYjJ",
+                    "size": "780MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/57bn5ix134gch9v",
+                    "size": "298MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Uncensored"
+            ]
+        },
+        {
+            "p": false,
             "title": "DASS-151",
             "img": {
                 "potrait": false,
@@ -887,7 +967,7 @@
                 "potrait": true,
                 "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/288.jpg"
             },
-            "desc": "အခန်း (၁ ) သားကို ရေချိုးပေးရင်း သီချင်းဆိုပြတဲ့ မေမေ\nအခန်း (၂) အဖေအပြာကားတွေအသံထွက်ကြည့်နေတာကြောင့် အင်းစက်ဖြစ်သွားခဲ့တဲ့ ကောင်လေး\nအခန်း (၃) အတွင်းခံဝတ်မထားတဲ့ အမေနဲ့ ၂ယောက်အတူတူစက်ဘီးစီးရင်း&nbsp; စက်ဘီးစီးကြတဲ့သားအမိ",
+            "desc": "အခန်း (၁ ) သားကို ရေချိုးပေးရင်း သီချင်းဆိုပြတဲ့ မေမေ\nအခန်း (၂) အဖေအပြာကားတွေအသံထွက်ကြည့်နေတာကြောင့် အင်းစက်ဖြစ်သွားခဲ့တဲ့ ကောင်လေး\nအခန်း (၃) အတွင်းခံဝတ်မထားတဲ့ အမေနဲ့ ၂ယောက်အတူတူစက်ဘီးစီးရင်း စက်ဘီးစီးကြတဲ့သားအမိ",
             "year": "2012",
             "rating": "",
             "duration": "",
