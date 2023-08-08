@@ -2,6 +2,84 @@
     "data": [
         {
             "p": false,
+            "title": "Hotgirl Next Door",
+            "img": {
+                "potrait": true,
+                "url": "https://i.bang.com/covers/34498/front.jpg"
+            },
+            "desc": "",
+            "year": "",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "MG-Server",
+                    "url": "https://megaup.net/1fX88",
+                    "size": "1.30 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MSNdNWEA2GuJ6HLUDI5JoJ4ErgqDFt79rwdoF3mPD",
+                    "size": "1.30 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "US",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "The Comeback",
+            "img": {
+                "potrait": true,
+                "url": "https://pbs.twimg.com/media/EWe4ELNXkAAxxAL.jpg:large"
+            },
+            "desc": "အေဂျင်စီ တစ်ခုကနေ ထွက်ချင်တဲ့ ဘလက် တစ်ယောက် ဘယ်လိုတေ စစ်မေးခံရမလဲ ဘာတွေ အရှုပ်ကြီးဖြစ်မလဲ ဆိုတာကို ရှုစားလိုက်ကြပါ",
+            "year": "",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EUI9LV2VqKyoVCcuSh4DYHtCWmWJPRHK4XrVRhLi2",
+                    "size": "1.09 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://megaup.net/1fX7y",
+                    "size": "1.09 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "US",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "Buddy’s Mom",
             "img": {
                 "potrait": true,
