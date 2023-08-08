@@ -2,6 +2,45 @@
     "data": [
         {
             "p": false,
+            "title": "My Friend's Husband",
+            "img": {
+                "potrait": true,
+                "url": "https://www.themoviedb.org/t/p/w500/oHcDnZ7Tn3yf2xYiKo7BsQwDJjs.jpg"
+            },
+            "desc": "Ji-eun ဆိုတဲ့အမျိုးသမီးဟာ အိမ်ထောင်သည်ဆိုသော်ငြားသူ့ယောက်ျားနဲ့ပတ်သက်ပြီး အိပ်ရာပေါ်က အချစ်ချိန်တွေမှာတော့\r\nအတော်လေး စိတ်မကျေနပ်မှုများတယ်…ဒါက သူမရဲ့ ရမ္မက်ပျင်းထန်လွန်းတာကြောင့်လားသူမတူတဲ့ လိုအင်ဆန္ဒကြောင့်လားတော့ ဝေခွဲမရ..ဒီတော့ သူမရဲ့ အဖြစ်တွေကိုအိမ်နီးချင်း အိမ်ထောင်သည် အမျိုးသမီးတစ်ဦးကိုရင်ဖွင့်မိတယ်…အိမ်နီးချင်းအမျိုးသမီးကလည်း ဒီလို ကိစ္စတွေမှာ ဆရာမကြီးဆိုတော့ နည်းလမ်းတွေအများကြီးပေးတော့တာပဲ.ဒီလိုနည်းလမ်းတွေလိုက်လက်တည့်စမ်းတဲ့အခါမှာတော့…",
+            "year": "",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "MG-Server",
+                    "url": "https://megaup.net/3hWcf/My.Friend_s.Husband.2017.WEB-DL.720P(DS).mp4",
+                    "size": "555 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "CM-Server",
+                    "url": "https://channelmyanmar.org/my-friends-husband2017/",
+                    "size": "555 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Korea",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "I couldn't resist my trainer",
             "img": {
                 "potrait": true,
