@@ -24,6 +24,16 @@
                     "srt": ""
                 },
                 {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/jet17jhql7qmfmt",
+                    "size": "555 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
                     "name": "CM-Server",
                     "url": "https://channelmyanmar.org/my-friends-husband2017/",
                     "size": "555 MB",
@@ -84,7 +94,8 @@
                 }
             ],
             "genre": [
-                ""
+                "US",
+                "MMSub"
             ]
         },
         {
