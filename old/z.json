@@ -14,6 +14,16 @@
             "ongoing": false,
             "srcs": [
                 {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MSNdNWEA2GuJ6HLUDI5JoJ4ErgqDFt79rwdoF3mPD",
+                    "size": "1.30 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
                     "name": "MG-Server",
                     "url": "https://megaup.net/1fX88",
                     "size": "1.30 GB",
@@ -24,11 +34,11 @@
                     "srt": ""
                 },
                 {
-                    "name": "F-Server",
-                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MSNdNWEA2GuJ6HLUDI5JoJ4ErgqDFt79rwdoF3mPD",
+                    "name": "Download Only (Megaup)",
+                    "url": "https://megaup.net/1fX88",
                     "size": "1.30 GB",
                     "quality": "HD",
-                    "direct": false,
+                    "direct": true,
                     "dl": true,
                     "wb": false,
                     "srt": ""
@@ -63,11 +73,21 @@
                     "srt": ""
                 },
                 {
-                    "name": "F-Server",
+                    "name": "MG-Server",
                     "url": "https://megaup.net/1fX7y",
                     "size": "1.09 GB",
                     "quality": "HD",
                     "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "Download Only (Megaup)",
+                    "url": "https://megaup.net/1fX7y",
+                    "size": "1.09 GB",
+                    "quality": "HD",
+                    "direct": true,
                     "dl": true,
                     "wb": false,
                     "srt": ""
