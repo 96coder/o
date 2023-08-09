@@ -2,6 +2,45 @@
     "data": [
         {
             "p": false,
+            "title": "D-Cup Girlfriend",
+            "img": {
+                "potrait": true,
+                "url": "https://www.themoviedb.org/t/p/w500/fkwIUzBe3UvACEGJCum9BuCbY5O.jpg"
+            },
+            "desc": "ခန္ဓာကိုယ်အချိုးအစား လှပသလို လိုအပ်တောင့်တမှုများတဲ့ မိန်းမလှလေးနှစ်ဦးရဲ့ လိုအင်ဆန္ဒတွေကို အတွေ့အကြုံဖလှယ်ပညာယူရင်း ဖြည့်ဆည်းပေးမယ့် ယောကျာ်းသားနှစ်ဦးရဲ့ပညာတွေကို 18+ဆန်ဆန်ကြည့်ရှုသွားရမှာဖြစ်ပါတယ်",
+            "year": "2020",
+            "rating": "",
+            "duration": "1h 10m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "MG-Server",
+                    "url": "https://megaup.net/1W360/[Zkar]D.Cup.Girlfriend-FHD.mp4",
+                    "size": "1.22 GB",
+                    "quality": "FHD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "MG-Server",
+                    "url": "https://megaup.net/2C0yd/[Zkar]D.Cup.Girlfriend-HD.mp4",
+                    "size": "487 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Korea",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "EBOD-897",
             "img": {
                 "potrait": false,
