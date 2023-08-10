@@ -2,6 +2,55 @@
     "data": [
         {
             "p": false,
+            "title": "No Hard Feelings",
+            "img": {
+                "potrait": false,
+                "url": ""
+            },
+            "desc": "ဂျနီဖာလောရန့်ရဲ့ ရုပ်ရှင်အသစ် တင်ပေးထားပါပြီ။ သရုပ်ဆောင်သစ် Andrew Barth Feldman နဲ့အတူ သရုပ်ဆောင်ထားတဲ့ ဟာသ အချစ်ကားလေးပါ။ ဒီရုပ်ရှင်မှာပါဝင်ဖို့အတွက် မင်းသား Andrew Barth Feldman ဟားဗက်တက္ကသိုလ်တက်ဖို့ကို နောက်ရွှေ့ခဲ့တာ နာမည်ကြီးပါပဲ။ ဒါပေမဲ့ J Law နဲ့ အတူတွဲရကတည်းက တန်နေပါပြီ။ အထူးသဖြင့် J Law ရဲ့ တုံးလုံးခန်းပါနေတာကြောင့်ပါ။ တုံးလုံးခန်းတွေ အသုံးအနှုန်းကြမ်းတွေကြောင့် R rated ဟာသကားဖြစ်ကြောင်း သတိပေးချင်ပါတယ်။",
+            "year": "2023",
+            "rating": "6.7",
+            "duration": "1h 34m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "MG-Server",
+                    "url": "https://megaup.net/1g6wz/(CM)_No_Hard_Feelings_(2023)_1080p.mp4",
+                    "size": "1.75 GB",
+                    "quality": "FHD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "MG-Server",
+                    "url": "https://megaup.net/1g6qh/No.Hard.Feelings.2023.720p.WEB-DL[CM].mp4",
+                    "size": "765 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "CM-Server",
+                    "url": "https://channelmyanmar.org/no-hard-feelings-2023/",
+                    "size": "765 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "US",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "MEYD-828",
             "img": {
                 "potrait": false,
