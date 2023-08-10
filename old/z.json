@@ -2,6 +2,46 @@
     "data": [
         {
             "p": false,
+            "title": "JUQ-160",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/968.jpg"
+            },
+            "desc": "သားကိုအနိုင်ကျင့်တဲ့ကျောင်းသားတွေကို တိုင်လိုက်တဲ့အတွက် ကျောင်းနားခံလိုက်ရပါတယ် ဒါကိုမကျေနပ်ကြဘဲအိမ်ထိလက်စားလာချေကြတဲ့အခါမှာတော့....( ",
+            "year": "2022",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MQNVLamEo2xHocPS+ra9RFrWXKqsAYaWyUaHjBA0t",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MeotnIkg1bUWx9cE59wWbg3ysspPFGOCD92Ii5V6q",
+                    "size": "558MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "Decensored",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "No Hard Feelings",
             "img": {
                 "potrait": true,
