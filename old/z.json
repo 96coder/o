@@ -83,6 +83,16 @@
                     "srt": ""
                 },
                 {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/4zgxh4kon9yo2dd",
+                    "size": "513 MB",
+                    "quality": "SD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
                     "name": "Download Only (Megaup)",
                     "url": "https://megaup.net/1g7ti",
                     "size": "1.14 GB",
@@ -125,6 +135,16 @@
                     "name": "F-Server",
                     "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NWJNzREw31H5k3/gU4DfbcBNNhVauTghDwI2eMjuk",
                     "size": "1.53 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/h8dypef7ga0x4fu",
+                    "size": "880 MB",
                     "quality": "HD",
                     "direct": false,
                     "dl": true,
