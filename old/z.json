@@ -53,6 +53,16 @@
             "ongoing": false,
             "srcs": [
                 {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file_premium/2t9cs55pqjfmrew",
+                    "size": "1.07 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
                     "name": "MG-Server",
                     "url": "https://megaup.net/1W8p6/DASD-376.m4v",
                     "size": "2.07 GB",
