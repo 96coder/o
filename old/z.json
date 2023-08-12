@@ -2,6 +2,75 @@
     "data": [
         {
             "p": false,
+            "title": "Naked Weapon",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BNzQyNDRiYmEtMzgzMi00YzE3LTlmYjgtZDc0NjI2YzdhYTljXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_.jpg"
+            },
+            "desc": "မပေါ့ တပေါ် အလှလေးတွေနဲ့ အရင်တုန်းက အိမ်ကလူတွေမသိအောင် ခိုးခိုးကြည့်ခဲ့ရတဲ့ ဇာတ်လမ်းလေးထဲက မမတွေကို ရဲရဲတင်းတင်း ပြန်လည်ခံစားလိုက်ကြပါဦး",
+            "year": "2002",
+            "rating": "5.5",
+            "duration": "1h 30m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "MG-Server",
+                    "url": "https://megaup.net/1g9rm/(CM)_Naked.Weapon.2002.Blu-ray.REMUX.720p.AVC.AAC.5.1-Naung.mp4",
+                    "size": "1.14 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "Download Only (Megaup)",
+                    "url": "https://megaup.net/1g9rm/(CM)_Naked.Weapon.2002.Blu-ray.REMUX.720p.AVC.AAC.5.1-Naung.mp4",
+                    "size": "1.14 GB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "MG-Server",
+                    "url": "https://megaup.net/2C4nv/(CM)_Naked.Weapon.2002.Blu-ray.REMUX.1080p.AVC.AAC.5.1-Naung.mp4",
+                    "size": "3.6 GB",
+                    "quality": "FHD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "Download Only (Megaup)",
+                    "url": "https://megaup.net/2C4nv/(CM)_Naked.Weapon.2002.Blu-ray.REMUX.1080p.AVC.AAC.5.1-Naung.mp4",
+                    "size": "3.6 GB",
+                    "quality": "FHD",
+                    "direct": true,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "CM-Server",
+                    "url": "https://channelmyanmar.org/naked-weapon-2002/",
+                    "size": "3.6 GB",
+                    "quality": "FHD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "China",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "MIDE-215",
             "img": {
                 "potrait": false,
