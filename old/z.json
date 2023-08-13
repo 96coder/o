@@ -2,6 +2,55 @@
     "data": [
         {
             "p": false,
+            "title": "Parasite Choon",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BMjEyNjlkNWUtZWM5My00ZjVhLWJhYTUtZDMyMzA4NDgwYmE1XkEyXkFqcGdeQXVyMTEwMTM3MTg5._V1_.jpg"
+            },
+            "desc": "ဇာတ်လမ်းဇာတ်ကွက်လေးကောင်းမှ မှောင်ချင်တယ်ဆိုရင် ဒီကားကိုကြည့်ဖို့အကြံပေးပါရစေ Parasite ဇာတ်ကား\r\nကျောရိုးနဲ့ဆင်တူလေး ရိုက်ထားပြီး ဇာတ်လမ်းကလည်းစိတ်ဝင်စားဖို့ကောင်းပါတယ်",
+            "year": "2021",
+            "rating": "",
+            "duration": "1h 20m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "MG-Server",
+                    "url": "https://megaup.net/1geyi/Parasite.Choon.2020.WEBRip.720p(DS).mp4",
+                    "size": "652 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "MG-Server",
+                    "url": "https://megaup.net/1gezp/Parasite.Choon.2020.WEBRip.1080p.x264.AAC(DS).mp4",
+                    "size": "1.4 GB",
+                    "quality": "FHD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "CM-Server",
+                    "url": "https://channelmyanmar.org/18parasite-choon-2021/",
+                    "size": "Auto",
+                    "quality": "FHD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Korea",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "Happy Home",
             "img": {
                 "potrait": true,
