@@ -92,6 +92,16 @@
             "ongoing": false,
             "srcs": [
                 {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/ctimm9lbaw9p2gh",
+                    "size": "1.41 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
                     "name": "MG-Server",
                     "url": "https://megaup.net/1WdvV/[Zkar]_SSIS_834.m4v",
                     "size": "1.41 GB",
@@ -590,6 +600,16 @@
             "duration": "1h 30m",
             "ongoing": false,
             "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/k368nyfje88qlrz",
+                    "size": "1.14 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
                 {
                     "name": "MG-Server",
                     "url": "https://megaup.net/1g9rm/(CM)_Naked.Weapon.2002.Blu-ray.REMUX.720p.AVC.AAC.5.1-Naung.mp4",
