@@ -1,6 +1,84 @@
 {
     "data": [
         {
+            "p": true,
+            "title": "PPPD-688",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/134.jpg"
+            },
+            "desc": "တစ်ပိသာလောက်ရှိတဲ့ ရင်ပုံကြီးကို ပိုင်ဆိုင်ထားတဲ့ ကိုကိုကာလသားတို့အသဲစွဲ မင်းသမီးလေး Hitomi ရဲ့ ဝမ်းရှော့ ဆက်ရှင် ၅ ခုကို ပုံစံမျိုးစုံနဲ့ တင်ပြထားပါတယ်အခန်း ၁ - နေမကောင်းတဲ့မောင်လေးကို ကြင်ကြင်နာနာ ပြုစုယုယပေးတဲ့ ရင်လေးတဲ့ Hitomiအခန်း ၂ - ကျောင်းသားလူငယ်လေးကို ၀ါသနာ စေတနာ ဂရုဏာ နာသုံးနာအရင်းခံပြီး သင်ကြားပေးနေတဲ့ ဆရာမလေး Hitomiအခန်း ၃ - သူဌေးတစ်ယောက်ကို စီးပွားရေး ပရောဂျက်တစ်ခုမှာ ရှိတာအကုန်ထုတ်ပြီး ရင်းနှီးမြှပ်နှံချင်လာအောင်ဆွဲဆောင်တဲ့ အကျိုးဆောင်မလေး Hitomiအခန်း ၄ - ၁၆ နှစ်အရွယ်ထိ ရေမချိုးတတ်သေးတဲ့ မောင်လေးကို ရေချိုးပေးတဲ့ ဂရုဏာရှင်မမကြီး Hitomiအခန်း ၅ - အနှိပ်ခန်းမှာ ကတ်စတန်မာကို တစ်သက်လုံး အနှိပ်ခံချင်အောင် ဝန်ဆောင်မှူကောင်းတဲ့ Hitomi",
+            "year": "2018",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/vtwq374hf5cayl9",
+                    "size": "975MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/7m2ft3essc66c73",
+                    "size": "409MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "MIDE-742",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/129.jpg"
+            },
+            "desc": "ဘဝမှာခင်ဗျားတို ကြိုက်တဲ့ idol နဲ့ အတူတူပျော်ရမယ်ဆိုရင်ဘယ်လိုခံစားရမလဲဗျာ။ ဒီဇာတ်လမ်းလေးဟာလည်း ဒီလိုပါပဲ..MC ဟာတောတောင်ထဲမှာသူငယ်ချင်းတွေနဲ့အတူ အသားကင်ပါတီလေးလုပ်နေပါတယ်။ သူတို ပါတီလုပ်နေတဲ့နေရာ ကို နာမည်သိပ်မကြီးသေးတဲ့Shoko ဆိုတဲ့ တက်သစ်စ J Pop Idol မလေး ဟာသူ့သူငယ်ချင်း တွေနဲ့အတူ လာပြီး အသားကင်ပါတီပွဲလာကျင်းပပြန်ပါတယ်။ ဒါပေမယ့် MC ဟာ Shoko ရဲ့ fan ဖြစ်နေပြီး ပါတီပွဲ လုပ်နေတုန်းမှာ မိုးတွေအရမ်းသည်းလာတဲ့အခါ ကားဆီပြန်မယ်ဆိုပြီး Shoko ဟာ တောထဲကနေ တစ်ယောက်ထဲပြေးသွားပြီး လမ်းပျောက်သွားပါတယ် ဒါပေမယ့် MC ဟာ Shoko ကိုစိတ်ပူပြီး စိုးရိမ်စိတ်နဲ့ အနောက်ကနေ လိုက်သွားရာမှာ ဘာတွေဆက်ဖြစ်လာမလဲ ကြည့်ရှုပေးပါခင်ဗျာ...",
+            "year": "2020",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/62ludzeo9ratcvp",
+                    "size": "994MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/1fcd928eelyf04p",
+                    "size": "454MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
             "p": false,
             "title": "SSIS-834",
             "img": {
