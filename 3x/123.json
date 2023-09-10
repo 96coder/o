@@ -1,0 +1,46 @@
+{
+    "one": [
+        {
+            "name": "Viber မှဆက်သွယ်ရန်",
+            "img": "viber",
+            "url": "cutt.ly/4L6aj2m"
+        },
+        {
+            "name": "Telegram မှဆက်သွယ်ရန်",
+            "img": "telegram",
+            "url": "cutt.ly/EBMBu6u"
+        },
+        {
+            "name": "Facebook မှဆက်သွယ်ရန်",
+            "img": "fb",
+            "url": "fb://page/100083343722482"
+        },
+        {
+            "name": "Line မှဆက်သွယ်ရန်",
+            "img": "line",
+            "url": "09123456789"
+        }
+    ],
+    "two": [
+        {
+            "name": "Viber မှဆက်သွယ်ရန်",
+            "img": "viber",
+            "url": "cutt.ly/4L6aj2m"
+        },
+        {
+            "name": "Telegram မှဆက်သွယ်ရန်",
+            "img": "telegram",
+            "url": "cutt.ly/EBMBu6u"
+        },
+        {
+            "name": "Facebook မှဆက်သွယ်ရန်",
+            "img": "fb",
+            "url": "fb://page/100083343722482"
+        },
+        {
+            "name": "Line မှဆက်သွယ်ရန်",
+            "img": "line",
+            "url": "09123456789"
+        }
+    ]
+}
