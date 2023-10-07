@@ -1,22 +1,22 @@
 [
     {
+        "name": "Facebook",
+        "img": "fb",
+        "url": "https://www.facebook.com/groups/1352661035216998"
+    },
+    {
+        "name": "Messenger",
+        "img": "msg",
+        "url": "fb://page/100083343722482"
+    },
+    {
         "name": "Viber မှဆက်သွယ်ရန်",
         "img": "vb",
-        "url": "https://cutt.ly/4L6aj2m"
+        "url": "https://cutt.ly/131zN4f"
     },
     {
         "name": "Telegram မှဆက်သွယ်ရန်",
         "img": "tg",
-        "url": "https://cutt.ly/EBMBu6u"
-    },
-    {
-        "name": "Facebook မှဆက်သွယ်ရန်",
-        "img": "fb",
-        "url": "fb://page/100083343722482"
-    },
-    {
-        "name": "Line မှဆက်သွယ်ရန်",
-        "img": "line",
-        "url": "https://page.line.me/557hqnwg"
+        "url": "https://cutt.ly/CCdpIYj"
     }
 ]
