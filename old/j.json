@@ -2,6 +2,95 @@
     "data": [
         {
             "p": false,
+            "title": "IPX-641",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/1104.jpg"
+            },
+            "desc": "မိန်းမဆုံးသွားလို စိတ်ဓာတ်ကျနေတဲ့ ယောက္ခထီးကိုသနားတာနဲ့ သူတိုအိမ်ပေါ်ခေါ်တင်ထားတဲ့ Karen ဟာ စိတ်လေပြီး အရက်စွဲကာ လောင်းကစားတွေလုပ်နေတဲ့ သူ့ယောက္ခထီးကြီးကို ငြိုငြင်လာပါတော့တယ်။ ဘာလိုဆို ဒီဘဲကြီးက သူ့ပိုက်ဆံအိတ်ထဲက ပိုက်ဆံတွေခိုးပြီး လောင်းကစားတွေလိုက်လုပ်နေတာလည်း ပါ‌တာပေါ့လေ။ တစ်နေ့သည်းမခံနိုင်တော့လို ယောက်ျားကို ပြောခိုင်းရာကနေ သူ့ယောက္ခထီးက ချွေးမ Karen ကို တေးထားပါတော့တယ်",
+            "year": "2021",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/jh1c5i7v3xfnnzf",
+                    "size": "1.1GB",
+                    "quality": "720P",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/6px3mfn23gv5que",
+                    "size": "535MB",
+                    "quality": "480P",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Decensored"
+            ]
+        },
+        {
+            "p": false,
+            "title": "ADN-499",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/1103.jpg"
+            },
+            "desc": "Yuki ဟာ IT ကုမ္ပဏီတစ်ခုမှာ လုပ်နေပြီး အသုံးမကျမှုများစွာကြောင့်ဌာနကြီးတွေကနေ ရာထူးချခံရကာ အရောင်းဌာနဆိုတဲ့ အနိမ့်ဆုံးဌာနမှာ လစာတွေအဖြတ်ခံရပြီးအလုပ်လုပ်နေရတဲ့အရှုံးသမားလေးတစ်ယောက်ဖြစ်ပါတယ်။ သူ့ရဲ့တစ်ခုတည်းသော ပျော်ရွှင်မှုက သူ့ဌာနရဲ့ ဌာနမှူး Shiromine-san ဆိုတဲ့ အချောအလှလေးဖြစ်ပြီး တစ်နေ့ဌာနမှူး မမ နဲ့ အိုဗာတိုင်အတူတူဆင်းရင်း ပင်ပန်းလိုအိပ်ပျော်နေတဲ့ ဌာနမှူး မမ ကို စိတ်မထိန်းနိုင်တော့ဘဲ အမှန်အကန်နှိက်မြည်းတော့ မမ အသိစိတ်ဝင်ပြီးနိုးလာတဲ့အခါ မထူးဇာတ်ခင်းကာ အပြီအပြင်နယ်ဖက်စားသောက် တဲ့ ဇာတ်လမ်းလေးကိုကြည့်ရမှာပဲဖြစ်ပါတယ်.....",
+            "year": "2023",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/1m1hjw7op4m8d45",
+                    "size": "2.6GB",
+                    "quality": "1080P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/ok92l8yhgqjhffq",
+                    "size": "1.6GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/ti6yeku152qbsl0",
+                    "size": "559MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "IPIT-012",
             "img": {
                 "potrait": false,
