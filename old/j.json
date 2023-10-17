@@ -43,6 +43,85 @@
         },
         {
             "p": false,
+            "title": "JUL-976",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/1105.jpg"
+            },
+            "desc": "Reiko kobayakawaနဲ့စားမပြေဘဲလေး reikoကသားရဲ့သူငယ်ချင်းညအိပ်အလည်လာရင်းသူ့ရဲ့အလှအပတွေမြင်ပီးအိမ်သာထဲလက်အားစုနေတဲ့ကောင်လေးကိုမြင်သွားပါတယ် ဒီလိုနဲ့ညဘက်ကျကောင်လေးကိုဆွဲစားလိုက်ပေမယ့်စားမပြေဘဲလေးဖြစ်နေချိန်မှာတော့ အန်တီအရွယ်reikoတယောက်လူငယ်လေးရဲ့အပြင်းအထန်မောင်းခြင်းကိုခံရပီး လူပါမျော့နေပါပီReikoနဲ့စားမပြေဘဲလေးဇာတ်လမ်းးအားပေးကြပါအုန်း.....( ",
+            "year": "2022",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/k2h22y2arlaugqo",
+                    "size": "1.4GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/54l0k5x679adge0",
+                    "size": "676MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Decensored"
+            ]
+        },
+        {
+            "p": false,
+            "title": "URKK-073",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/1106.jpg"
+            },
+            "desc": "အိမ်လခကလဲမပေးနိုင် အမေကလဲနေမကောင်းတော့ အိမ်ရှင်ကြီးဆီမှာလစာစောင့်ပေးဖိုသွားပြောပါတယ်ဒီလိုနဲ့အောက်ပိုင်းမကောင်းလို wheelchair နဲ့နေရတဲ့ဘိုးတော်ကသူ့ကိုပြုစုဖိုအလုပ်ပေးရင်းအိမ်လခမပေးနိုင်တာတွေကိုအကျပ်ကိုင်ကာမတန်မရာအကိတ်မကို ရှယ်ဖြုတ်ပါတော့တယ် ",
+            "year": "2023",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/ia6h7l6i6ydkmtz",
+                    "size": "1.4GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/3m23uto6rrxnat5",
+                    "size": "651MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "Premium"
+            ]
+        },
+        {
+            "p": false,
             "title": "DLDSS-234",
             "img": {
                 "potrait": false,
