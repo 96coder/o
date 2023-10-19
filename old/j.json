@@ -2,6 +2,47 @@
     "data": [
         {
             "p": false,
+            "title": "VEC-586",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/1112.jpg"
+            },
+            "desc": "အလုပ်ကစီနီယာရဲ့ထမင်းဟင်းအပြင်မိန်းမပါဘူဖေးထပ်စားတဲ့ ကျော်ကြီး ..",
+            "year": "2023",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/q2jmx6w5e72w7vj",
+                    "size": "958MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/3enfvs6t4n8oafb",
+                    "size": "449MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Decensored",
+                "Cheating"
+            ]
+        },
+        {
+            "p": false,
             "title": "CAWD-551",
             "img": {
                 "potrait": false,
