@@ -2,6 +2,47 @@
     "data": [
         {
             "p": false,
+            "title": "JUL-176",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/388.jpg"
+            },
+            "desc": "အိမ်ရှင်မတစ်ယောက် ဓာတ်လှေကားပျက်တိုင်း အရသာတွေ့ပြီး ဓာတ်လှေကားပျက်မယ့်အချိန်ကိုပဲ စောင့်နေသောအခါ..",
+            "year": "2020",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/gemnbvo6veir48w",
+                    "size": "931MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/38332sz3wfvgu4b",
+                    "size": "344MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Cheating",
+                "Censored"
+            ]
+        },
+        {
+            "p": false,
             "title": "SAME-075",
             "img": {
                 "potrait": false,
