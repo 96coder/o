@@ -2,6 +2,98 @@
     "data": [
         {
             "p": false,
+            "title": "IPX-896",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/1127.jpg"
+            },
+            "desc": "ကောင်လေးနဲ့တူတူနေဖိုလုပ်ပေမယ့် အကာကွယ်မရှိလိုကောင်မလေးတယောက်စတိုးဆိုင်လာဝယ်ပါတယ် ဝယ်ရမှာရှက်တော့ဆိုင်မှာလဲလူလစ်တာနဲ့ခိုးမိလိုက်တဲ့အခါမိသွားချိန်မှာတော့သူ့ဘဝမှာတသက်မမေ့နိင်စရာအခိုက်အတန့်ဖြစ်သွားသလိုခိုးတာကိုလဲနောင်ကျဉ်သွားခဲ့ပါပီ သူဘာတွေကြုံလိုက်ရလဲဆိုတာကိုတော့ရှုစားလိုက်ကြပါအုန်း ",
+            "year": "2022",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/jnyl06v8g7fzol9/%255BDark_TV%255DIPX-896-RM%257EHD%25281080P%2529.mp4/file",
+                    "size": "2GB",
+                    "quality": "1080P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/bu98yv37ns9dhi5",
+                    "size": "1.2GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/e8krypcc3l8aewl",
+                    "size": "548MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "Decensored",
+                "MMSub",
+                "Force"
+            ]
+        },
+        {
+            "p": false,
+            "title": "SSPD-148",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/1125.jpg"
+            },
+            "desc": "ယောက်ျား အူကျရောဂါဖြစ်နေတာကို လူနာလိုက်စောင့်ရင်း ဘေးက တခြားလူနာအဖိုးကြီးတစ်ယာက်နဲ့ ငြိသွားခဲ့တဲ့ ခပ်တုံးတုံး မိန်းကလေး တစ်ယောက်ရဲ့အဖြစ်ကို ရင်နာစွာကြည့် ရမှာပဲဖြစ်ပါတယ်။ ဒီဇာတ်ကားက အနားယူသွားပြီဖြစ်တဲ့ မင်းသမီး Jessica Kizaki ရဲ့ အကောင်းဆုံးတွေထဲက တစ်ခုဖြစ်ပါတယ်.....( ",
+            "year": "2019",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/7ialvfyob93yxyx",
+                    "size": "995MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/ov8ld37u79b9waz",
+                    "size": "522MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Decensored",
+                "Hospital"
+            ]
+        },
+        {
+            "p": false,
             "title": "MIMK-133",
             "img": {
                 "potrait": false,
