@@ -2,6 +2,47 @@
     "data": [
         {
             "p": false,
+            "title": "NKKD-219",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/1132.jpg"
+            },
+            "desc": "ဟာနာဟာရူနာနဲ့ရှူရိုက်ကောင်လေးဟာနာရဲ့အတွင်းခံတွေပျောက်ပျောက်နေလိုစဥ်းစားရခက်နေချိန်မှာ သူ့ရဲ့အတွင်းခံတွေခိုးခိုးပီးရှူရှိက်နေတဲ့ကောင်လေးကတော့တတိုက်ထဲနေတဲ့ကောလိပ်ကျောင်းသားလေးဖြစ်နေပါတယ် ဟာနာဟာရူနာနဲ့ရှူရှိက်ကောင်လေးဘာတွေဆက်ဖြစ်မလဲဆိုတာတော့ဆက်လက်ရှုစားကြပါတော့",
+            "year": "2021",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/8koiv6mqkobubjh",
+                    "size": "1.2GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/0tf5jrfn8nk5v51",
+                    "size": "570MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "Censored",
+                "MMSub",
+                "School"
+            ]
+        },
+        {
+            "p": false,
             "title": "STARS-896",
             "img": {
                 "potrait": false,
