@@ -2,6 +2,46 @@
     "data": [
         {
             "p": false,
+            "title": "Office Lady Love Juic",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BMjZkMDk2MTktMzVkZS00YjFmLTg0YmUtYWE3MzlkN2NmYTY4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg"
+            },
+            "desc": "အိပ်ယာထက်က အခန်းတွေလည်း ပါရမယ်.. ချစ်သူရည်းစား ဆက်ဆံရေးကိုမှ တမြေ့မြေ့နဲ့ ဆွေးချင်တဲ့သူတွေအတွက် ဇာတ်လမ်းကောင်းလေး တင်ဆက်ပေးလိုက်ပါတယ်",
+            "year": "1999",
+            "rating": "6.3",
+            "duration": "58m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/5k3ludi5c5cf4q6",
+                    "size": "1.35 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://megaup.net/1YZv5/OL.no.aijiru.Rabu.jusu.1999..720(DS).mp4",
+                    "size": "450 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Censored"
+            ]
+        },
+        {
+            "p": false,
             "title": "SSIS-018",
             "img": {
                 "potrait": false,
