@@ -2,6 +2,56 @@
     "data": [
         {
             "p": false,
+            "title": "The Pursuit of Happiness",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BOTc1NDM5OWEtYmY2MS00NDdjLTg1ZTktZDM1OWE0NTc4NjE2XkEyXkFqcGdeQXVyMjIwODg1MjM@._V1_FMjpg_UX1000_.jpg"
+            },
+            "desc": "Pink Film မဆန်တဲ့ Pink Film တစ်ကားပဲဖြစ်ပြီး Mainstream ဇာတ်ကားတွေလိုမျိုး သဘာဝကျတဲ့ဇာတ်လမ်းဇာတ်ကွက် အလွမ်းအသောလေးတွေနဲ့ခံစားရမှာဖြစ်ပါတယ်။ မင်းသမီးနှစ်ယောက်လုံးကလည်း ရှယ်မိုက်ပါတယ်။",
+            "year": "1988",
+            "rating": "5.8",
+            "duration": "1h 29m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/nzredqmsx6b417e",
+                    "size": "732 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "MG-Server",
+                    "url": "https://megaup.net/2F7H6/(CM)_The_Pursuit_of_Happiness_(1988)_720p.mp4",
+                    "size": "732 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "CM-Server",
+                    "url": "https://channelmyanmar.org/the-pursuit-of-happiness-1988/",
+                    "size": "732 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Censored"
+            ]
+        },
+        {
+            "p": false,
             "title": "YUJ-010",
             "img": {
                 "potrait": false,
