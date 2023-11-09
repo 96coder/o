@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "p": true,
+            "p": false,
             "title": "SSNI-229",
             "img": {
                 "potrait": true,
