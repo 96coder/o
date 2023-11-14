@@ -2,6 +2,34 @@
     "data": [
         {
             "p": false,
+            "title": "HMIX-026",
+            "img": {
+                "potrait": false,
+                "url": "https://img2.javmost.cx/file_image/HMIX-026.jpg"
+            },
+            "desc": "",
+            "year": "",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/7m14wnrp9oh4ccm",
+                    "size": "1.08 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan"
+            ]
+        },
+        {
+            "p": false,
             "title": "Friction Is Heat sis",
             "img": {
                 "potrait": false,
