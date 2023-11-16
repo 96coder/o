@@ -2,6 +2,47 @@
     "data": [
         {
             "p": false,
+            "title": "HQIS-041",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/383.jpg"
+            },
+            "desc": "သားဖြစ်သူကို အလုပ်ခရီးလွှတ်ပြီး ချွေးမလှလှလေးကို အပီကြံတဲ့ ဘီလူးခေါင်းဆောင်းထားတဲ့ လူကြမ်းမင်းသားလေး ဂျပန်ကတုံးမင်းသားကြီးရဲ့ လူဆိုးသရုပ်ဆောင်ပီပြင်ပုံလေးကို ရင်သပ်ရှူမော အံ့သြဘနန်း ကြည့်ရှူရမှာဖြစ်ပါတယ်...( ",
+            "year": "2019",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/rbux4xr94dj5xue",
+                    "size": "827MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/iv70pekscynjqdk",
+                    "size": "410MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Censored",
+                "F-In-Law"
+            ]
+        },
+        {
+            "p": false,
             "title": "SPRD-1424",
             "img": {
                 "potrait": false,
