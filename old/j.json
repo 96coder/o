@@ -2,6 +2,46 @@
     "data": [
         {
             "p": false,
+            "title": "MRSS-133",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/384.jpg"
+            },
+            "desc": "သင် တစ်ယောက်ထဲနေတဲ့ အခန်းထဲကို မိန်းကလေးတစ်ယောက် အမူးလွန်ပြီး အခန်းမှား ဝင်လာခဲ့ပါက သင်ဘာလုပ်မလဲ....ဟုတ်ပါတယ်..ဒီဇာတ်ကားလေးကတော့ ကုမ္ပဏီက ပါတီပွဲက အပြန် အမူးလွန်ပြီး...FAတစ်ကိုယ်ထဲ..လက်သမားတစ်ယောက်ရဲ့ အခန်းထဲ ကို မှားဝင်မိသွားတဲ့ အခါ..",
+            "year": "2022",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/x257hk5fcunpr8i",
+                    "size": "1.2GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/7c7emlkgtl3g9bk",
+                    "size": "491MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "Censored",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "HQIS-041",
             "img": {
                 "potrait": true,
@@ -19,7 +59,7 @@
                     "size": "827MB",
                     "quality": "720P",
                     "direct": false,
-                    "dl": false,
+                    "dl": true,
                     "wb": false,
                     "srt": ""
                 },
@@ -29,7 +69,7 @@
                     "size": "410MB",
                     "quality": "480P",
                     "direct": false,
-                    "dl": false,
+                    "dl": true,
                     "wb": false,
                     "srt": ""
                 }
