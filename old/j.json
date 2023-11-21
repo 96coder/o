@@ -2,6 +2,57 @@
     "data": [
         {
             "p": false,
+            "title": "ADN-415",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/390.jpg"
+            },
+            "desc": "မိန်းမခွဲခွာသွားလို့ အထီးကျန်အသဲကွဲ နေတဲ့ ဝက်ဝံရုပ်လို ဝတုတ်ယောက္ခထီးကြီးကို ချွေးမသေးသေးပိန်ပိန်လေးက အားပေးကာ ပျော်အောင်ထားတဲ့ဇာတ်လမ်းလေးပဲဖြစ်ပါတယ်.....",
+            "year": "2022",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/uv1290a7ay5klxe",
+                    "size": "1.4GB",
+                    "quality": "1080P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/86hg7eprf128bl6",
+                    "size": "849MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/9wn501g8blgk2p9",
+                    "size": "330MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Decensored",
+                "F-In-Law"
+            ]
+        },
+        {
+            "p": false,
             "title": "PRED-526",
             "img": {
                 "potrait": false,
