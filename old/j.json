@@ -2,6 +2,56 @@
     "data": [
         {
             "p": false,
+            "title": "The Red Apple",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BNTg5NWRhMDQtMGQzOC00NjBkLWEwY2YtOWJhNzEyYzQ0YzM0XkEyXkFqcGdeQXVyMjg2NDYwMzM@._V1_FMjpg_UX1000_.jpg"
+            },
+            "desc": "၂၀၅၀ ကို အခြေတည်ထားပြီး ဂျပန်နိုင်ငံမှာ ၂၀၃၅ လောက်ကစပြီး\r\n“လိင်မဆက်ဆံရ” ဥပဒေကို စပြီးပြဌာန်းခဲ့ပါတယ်။\r\nဥပဒေကိုလိုက်နာဖို့အတွက် ဆယ်တိုရီ(SICO)လို့ ခေါ်တဲ့ ဌာနကိုထူထောင်ပြီး\r\nဥပဒေနဲ့ဆန့်ကျင်တဲ့လိင်ဆက်ဆံသူတွေကို လိုက်လံဖမ်းဆီးခဲ့ပါတယ်။\r\nအဖေလိုမျိူး SICO အရာရှိဖြစ်ချင်နေတဲ့ အင်နူတာလေးကတော့\r\nမွေးကတည်းက ဝင်းနုတာကိုတောင် ဘာမှန်းမသိတဲ့လူရိုးလူအလေးပါ။\r\nလိင်ဆက်ဆံတာကိုတောင် ရွံစရာအဖြစ်သတ်မှတ်ထားတဲ့ကောင်လေးကို\r\nသူ့သူငယ်ချင်းက တရားမဝင်လိင်ဆက်ဆံတဲ့ ကလပ်ကိုခေါ်သွားလိုက်တဲ့အခါမှာ…",
+            "year": "2023",
+            "rating": "",
+            "duration": "3 EPs",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "EP-01",
+                    "url": "https://www.mediafire.com/file/bfvbe2aketdsxr2",
+                    "size": "151 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "EP-02",
+                    "url": "https://www.mediafire.com/file/hfvq7adpjj8mj3j",
+                    "size": "125 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "EP-03",
+                    "url": "https://www.mediafire.com/file/aofk86j53nnjy7k",
+                    "size": "125 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Censored"
+            ]
+        },
+        {
+            "p": false,
             "title": "JUQ-437",
             "img": {
                 "potrait": false,
