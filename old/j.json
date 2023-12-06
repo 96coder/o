@@ -1,6 +1,57 @@
 {
     "data": [
         {
+            "p": true,
+            "title": "DVDES-970",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/411.jpg"
+            },
+            "desc": "Single Mother ‌တစ်ယောက်ဖြစ်ပြီး အတွင်းခံ ကုမ္ပဏီ ရဲ့ CEO ဖြစ်နေတဲ့ အန်တီ ကြီးမှာ သားလေး Suzume ဆိုတာရှိတယ် အန်တီမမကြီးဟာ စည်းကမ်းတင်းကြပ်ပြီး သားလေးပညာမတတ်ဖြစ်မှာကို အရမ်းကြောက်တာကြောင့် သားကို အပျော်အပါးမပြောနဲ့ ဂိမ်းလေးတောင်မှ အဆင့်ကျမှာဆိုးလို ပေးမဆော့ပါဘူး ဒီလိုနဲ့ သားလေး ဟာ Shota လိုခေါ်တဲ့ သူငယ်ချင်းကို အိမ်ခေါ်လာရာက နေ Shota က သူ့သားကို အမျိုးမျိုး သွေးထိုးပြီး ဖျက်ဆီးနေတာကိုသွားတဲ့ အန်တီမမ ကြီးဟာ Shota ကို နှစ်ပြားမတန် နှိမ်ချဆက်ဆံ လိုက်ပြီး ပိုးဆိုးပက်စက်ပြောလိုက်တဲ့အခါမှာ မှီးကောင်ပေါက်အရွယ် Shota ဟာ အန်တီမမကြီးကို ဘဝပျက်အောင် ကလဲ့စားချေမလဲ ဆိုတာ အားပါးတရကြည့်ရမှာဖြစ်ပါတယ်",
+            "year": "2016",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/l9ouq5pof1xzrwc",
+                    "size": "2.3GB",
+                    "quality": "1080P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/ta245qr5gj7o13b",
+                    "size": "1.3GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/gnh82ko1oyxl53u",
+                    "size": "538MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Force",
+                "Censored"
+            ]
+        },
+        {
             "p": false,
             "title": "SSPD-128",
             "img": {
@@ -13,6 +64,16 @@
             "duration": "",
             "ongoing": false,
             "srcs": [
+                {
+                    "name": "Z-Stream",
+                    "url": "sUXXV3Or9NuFB6oFjcysMy7lqK3vYw0MAeyy59h7mD9KVarN5jXlrn1zdeNBdg0NLSLgIQDRd8DPHdnH1WPas68q9mFJ1+8wvZgp7GRPD2c=",
+                    "size": "1.1 GB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
                 {
                     "name": "F-Server",
                     "url": "https://www.mediafire.com/file/t1vnaxg1d9sg4bw",
@@ -37,7 +98,8 @@
             "genre": [
                 "Japan",
                 "MMSub",
-                "Force"
+                "Force",
+                "Decensored"
             ]
         },
         {
