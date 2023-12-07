@@ -2,6 +2,47 @@
     "data": [
         {
             "p": false,
+            "title": "JUL-201",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/328.jpg"
+            },
+            "desc": "အင်းစက်များများတင်ပေးဖို့ တောင်းဆိုထားတဲ့ ဘော်ဒါတွေအတွက် မားသားဆမ်း (mother - son) ဇာတ်လမ်းလေးတစ်ပုဒ်ကို ထပ်မံတင်ဆက်ပေးလိုက်ပါတယ်.စက်ရုပ်လိုတစ်နေကုန်အလုပ်လုပ်ပြီး ဖိအားတွေများနေတဲ့ သားဖြစ်သူကို ပျော်အောင် စွမ်းအားတွေပေးခဲ့တဲ့ မားသားကြီးရဲ့ မေတ္တာဖွဲ့ ဇာတ်လမ်းလေးတစ်ပုဒ်ဖြစ်ပါတယ်...",
+            "year": "2020",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/aj33z38xho2816k",
+                    "size": "998MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/ytrh5vp6xnqpqb2",
+                    "size": "416MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "Family",
+                "MMSub",
+                "Censored"
+            ]
+        },
+        {
+            "p": false,
             "title": "JUX-587",
             "img": {
                 "potrait": true,
