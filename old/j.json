@@ -2,6 +2,97 @@
     "data": [
         {
             "p": false,
+            "title": "JUX-587",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/323.jpg"
+            },
+            "desc": "DJ သမားတွေကိုမုန်းနေတဲ့ သူတစ်ယောက်နေ ပရို DJ သမားတစ်ယောက်ဖြစ်လာအောင်ကြိုးစားခဲ့တဲ့ ဇာတ်လမ်းလေးပဲ ဖြစ်ပါတယ်ဗျ...ငယ်ငယ်ကထဲက အမေသေသွားတဲ့ MC တစ်ယောက် အလုပ်မလုပ်ပဲ ကလပ်မှာ DJ တီးနေတဲ့ သူ့အဖေနဲ့ အဆင်မပြေခဲ့ပါဘူး...ဒါပေမယ့် တစ်ရက်မှာတော့...အိမ်ကို သူ့အဖေရဲ့ ပါတနာ မမ Chitose ရောက်လာပြီးနောက်မှာတော့...DJ ဆရာတွေကို သဘောကျတဲ့ မမ Chitose အတွက် MC တစ်ယောက် ပရို DJ သမားဖြစ်လာအောင်ကြိုးစားပါတော့တယ်....",
+            "year": "2015",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/um3y7b26uddzit8",
+                    "size": "869MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/pjxp1hxez8klzjg",
+                    "size": "353MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "Censored",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "MEYD-414",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/320.jpg"
+            },
+            "desc": "ဟိုဘက်အိမ်က ညမအိပ်တဲ့ကောင်လေးကြောင့် အိပ်ရေးပျက်ရတဲ့ AI Sayama လေးက စိတ်မထင်ရင်မထင်သလို ကောင်လေးကိုသွားသွားပြီးရန်တွေ့ကာ ခဏခဏတောင်းပန်ခိုင်းတတ်ပါတယ် မာနကြီးတဲ့သူမက အဝတ်အစားကောင်းကောင်းဝတ်ရဖို့အရေး ယောကျ်ားမသိအောင် outside ရှာရင်း သူမ မှိုချိုးမြှစ်ချိုးပြောခဲ့တဲ့ကောင်လေးက သူမကက်စတန်မာဖြစ်နေသောအခါ.....",
+            "year": "2018",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/m81msnp4yyvx6ff",
+                    "size": "1.8GB",
+                    "quality": "1080P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/dff5t5k9egwwh7f",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/no9gm00tleppboc",
+                    "size": "563MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Force",
+                "Censored"
+            ]
+        },
+        {
+            "p": false,
             "title": "HND-290",
             "img": {
                 "potrait": false,
