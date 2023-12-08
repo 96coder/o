@@ -14,6 +14,16 @@
             "ongoing": false,
             "srcs": [
                 {
+                    "name": "Z-Stream",
+                    "url": "sUXXV3Or9NuFB6oFjcysMy7lqK3vYw0MAeyy59h7mD9KVqrJ5lDhrvln0vG/bhvJdUeuqWMS42Nh4baN775roux+VXUJFXt5lTvXV19UtyA=",
+                    "size": "1.36 GB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
                     "name": "F-Server",
                     "url": "https://www.mediafire.com/file/bs7sa0y3a7058p5",
                     "size": "1.36 GB",
@@ -48,7 +58,8 @@
                 "Japan",
                 "MMSub",
                 "Decensored",
-                "Office"
+                "Office",
+                "Cheating"
             ]
         },
         {
