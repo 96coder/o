@@ -2,6 +2,47 @@
     "data": [
         {
             "p": false,
+            "title": "ADN-1416",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/245.jpg"
+            },
+            "desc": "အနှိပ်သည် အကြောပြင်ဆရာ လက်ထဲတွင် ထိထိမိမိဖြစ်နေသော အိမ်ရှင်မတစ်ယောက်အကြောင်း....အစကတော့ အနှိပ်သည်အကြောပြင်ဆရာခေါ်တာ သူမအမျိုးသားအတွက်ဖြစ်ပေမယ့် နောက်ပိုင်းမှာ သူမပါအနှိပ်ခံလာပြီး...တစ်ခါခံပြီး နောက်ထပ်မခံရမနေနိုင်အောင်ဖြစ်ခဲ့ရသော ...ထိမိဂွိလှသော အကြောပြင်ဆရာရဲ့ အနှိပ်ကွက်တွေဟာ...( ",
+            "year": "2017",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/equ2pan0dbe0g1a/%255BDark_TV_Premium%255DADN_146_-HD.mp4/file",
+                    "size": "923MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/1rivf0pn1an9t2p/%255BDark_TV_Premium%255DADN_146_-SD.m4v/file",
+                    "size": "380MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Censored",
+                "Cheating"
+            ]
+        },
+        {
+            "p": false,
             "title": "PPPE-156",
             "img": {
                 "potrait": false,
