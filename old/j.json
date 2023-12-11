@@ -3169,12 +3169,12 @@
             "ongoing": false,
             "srcs": [
                 {
-                    "name": "F-Server",
-                    "url": "https://www.mediafire.com/file/dnh7cm7ie4l5ceg",
+                    "name": "Z-Stream",
+                    "url": "sUXXV3Or9NuFB6oFjcysMy7lqK3vYw0MAeyy59h7mD9KVqrZzlDh3QF/ZXBRiRoFq+VhdjyO/l+hI+6e/xVK/kOey0+atlFrPdYMI/QuWCtLSH4esYiezQ==",
                     "size": "2.31 GB",
                     "quality": "HD",
-                    "direct": false,
-                    "dl": true,
+                    "direct": true,
+                    "dl": false,
                     "wb": false,
                     "srt": ""
                 },
