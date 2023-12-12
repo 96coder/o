@@ -14,6 +14,16 @@
             "ongoing": false,
             "srcs": [
                 {
+                    "name": "Z-Stream",
+                    "url": "sUXXV3Or9NuFB6oFjcysMy7lqK3vYw0MAeyy59h7mD9KVqrhzzXh3YpaEhtZHmygypLyTlCyOoJf7Wv3edQoQDs8puMSpQNsByfplRsgZ9MbiKQfK2nF2A==",
+                    "size": "1.43 GB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
                     "name": "F-Server",
                     "url": "https://www.mediafire.com/file/5akz7sg1qgvnl5t",
                     "size": "1.43 GB",
@@ -56,6 +66,16 @@
             "ongoing": false,
             "srcs": [
                 {
+                    "name": "Z-Stream",
+                    "url": "sUXXV3Or9NuFB6oFjcysMy7lqK3vYw0MAeyy59h7mD9KVqrhzzXtrka8GDK1tzRHyBmOKJPUxNP9CBWtZvn5TmSNNTOMRDoYDVM1eshTulg35j8vq8GFSQ==",
+                    "size": "1.13 GB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
                     "name": "F-Server",
                     "url": "https://www.mediafire.com/file/0plgeeokc4ais8v",
                     "size": "1.13 GB",
@@ -96,6 +116,16 @@
             "duration": "2h 10m",
             "ongoing": false,
             "srcs": [
+                {
+                    "name": "Z-Stream",
+                    "url": "sUXXV3Or9NuFB6oFjcysMy7lqK3vYw0MAeyy59h7mD9KVqrhzzXtvjUaxjL+BcVs8siOVSL3rFP8BAyY5l51FnVlrjDUZ1mt95On6+oIUhCz4ZYyBPlzmA==",
+                    "size": "1.25 GB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
                 {
                     "name": "F-Server",
                     "url": "https://www.mediafire.com/file/szx0lufjgxtp48g",
