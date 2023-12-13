@@ -2,6 +2,46 @@
     "data": [
         {
             "p": false,
+            "title": "MIDD-848",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/264.jpg"
+            },
+            "desc": "Julia လေးရဲ့အလှအပတွေကို တစ်ဝကြီးခံစားရမယ့်ကားလေးဖြစ်လို့ Julia ပရိတ်သတ်တွေ လက်မလွှတ်သင့်တဲ့ ကားလေးပါ",
+            "year": "2012",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/ull301klsiwqpvh",
+                    "size": "970MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/cdwjxkrnunl18cl",
+                    "size": "471MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Censored"
+            ]
+        },
+        {
+            "p": false,
             "title": "ADN-256",
             "img": {
                 "potrait": false,
