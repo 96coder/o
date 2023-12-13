@@ -55,6 +55,16 @@
             "srcs": [
                 {
                     "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6oFjcysMy7lqK3vYw0MAeyy59h7mD9KVqr55jXhvgXayNsA7c9isS+Ba96EpMvbcqHZDj14uRXgoXb5Ids13za+KfH3neM=",
+                    "size": "1.13 GB",
+                    "quality": "Sd",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
                     "url": "https://www.mediafire.com/file/npo9b0amajfdpj2",
                     "size": "1.13 GB",
                     "quality": "HD",
