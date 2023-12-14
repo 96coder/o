@@ -2,6 +2,47 @@
     "data": [
         {
             "p": false,
+            "title": "RCTD-381",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/275.jpg"
+            },
+            "desc": "အတန်းထဲမှာ ဆရာမကို အချိန်ရပ်ပြီး အပီဗျင်းတဲ့ဇာတ်ကားလေးပဲဖြစ်ပါတယ် ",
+            "year": "2021",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/8dzoau0r6hwpxvx",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/lu768ap7aswifys",
+                    "size": "493MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Censored",
+                "TimeStop"
+            ]
+        },
+        {
+            "p": false,
             "title": "ADN-147",
             "img": {
                 "potrait": true,
