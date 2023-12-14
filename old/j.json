@@ -2,6 +2,47 @@
     "data": [
         {
             "p": false,
+            "title": "ADN-147",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/274.jpg"
+            },
+            "desc": "အပန်းဖြေခရီးသွားတာတောင် မိမိကို ပစ်ထားပြီး အလုပ်ကိစ္စနဲ့ချက်ချင်းပြန်သွားတဲ့ယောကျ်ားကို လက်စားချေတဲ့အနေနဲ့ တခြားဘဲတစ်ပွေနဲ့ အပန်းဖြေတဲ့ ဆော်အကြောင်းပါ",
+            "year": "2017",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/mj13pa0gbrf7e6p",
+                    "size": "837MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/u1k2uxf6nmo2773",
+                    "size": "354MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Cheating",
+                "Censored"
+            ]
+        },
+        {
+            "p": false,
             "title": "MIDD-848",
             "img": {
                 "potrait": true,
