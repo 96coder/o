@@ -2,6 +2,47 @@
     "data": [
         {
             "p": false,
+            "title": "JUL-969",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/285.jpg"
+            },
+            "desc": "မမ Nao Jinguji က ကျောင်းသားအရွယ်ကောင်လေးငယ်ငယ်လေးတစ်ယောက်ကို အရက်မူးအောင်တိုက်ပြီးဆွဲစားတဲ့ဇာတ်လမ်းလေးပဲဖြစ်ပါတယ် ",
+            "year": "2022",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/zdzwq0y48w26jw9",
+                    "size": "987MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/i4k8chyim1oqtuf",
+                    "size": "400MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Censored",
+                "Cheating"
+            ]
+        },
+        {
+            "p": false,
             "title": "PRED-532",
             "img": {
                 "potrait": false,
