@@ -14,6 +14,16 @@
             "ongoing": false,
             "srcs": [
                 {
+                    "name": "Z-Stream",
+                    "url": "sUXXV3Or9NuFB6oFjcysMy7lqK3vYw0MAeyy59h7mD9KV4jdzzXhrk3ideJMzfpQM+8KawO5Z8upAonzI5tnOsM/XyrWNSWmYN9AjE+uj+lIsRG+PpyyMw==",
+                    "size": "1.28 GB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
                     "name": "F-Server",
                     "url": "https://www.mediafire.com/file/r2rgfe9p6hbo2m4",
                     "size": "1.28 GB",
@@ -36,6 +46,47 @@
             ],
             "genre": [
                 "Japan",
+                "MMSub",
+                "Office"
+            ]
+        },
+        {
+            "p": false,
+            "title": "PPPD-131",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/276.jpg"
+            },
+            "desc": "ကမော်ကမဲ့နိုင်တဲ့ ခပ်ရိုးရိုးကောင်မလေး Meguri တစ်ယောက် ပစ္စည်းတွေလွတ်လွတ်ကျတတ်လွန်းလို့ ရော်ရမလိုဖြစ်နေတဲ့ အခိုက်အတန့်မှာ မရော်ရတဲ့ နည်းလမ်းကောင်းတွေ့သွားခဲ့ပါတယ် အဲတာကတော့ သူမပေါက်စီကို တစ်ခါအကိုင်ခံလိုက်ရုံနဲ့ ကတ်စတန်မာတွေအများကြီးရသွားတတ်လို့ နောက်ပိုင်းမှာ ဝတ်လစ်စလစ်နဲ့ ကိုယ်တိုင်ကားမောင်းပြိး delivery ပို့ခဲံရာ အလုပ်အရမ်းဖြစ်ပြီး outside ဝင်ငွေတွေပါရခဲ့ပါတော့တယ်....( ",
+            "year": "2014",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/on7rtonea8ynjqx",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/cboc87irhs9mo3e",
+                    "size": "483MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "Censored",
                 "MMSub",
                 "Office"
             ]
