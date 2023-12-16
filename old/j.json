@@ -14,6 +14,16 @@
             "ongoing": false,
             "srcs": [
                 {
+                    "name": "Z-Stream",
+                    "url": "sUXXV3Or9NuFB6oFjcysMy7lqK3vYw0MAeyy59h7mD9KV4jhzlDhrnSO0jmYwirTeFcLOSkXjEyEEaISxmaXsL/Ro87CK5SIbcIXUE4+iCWrSbm+KkC8IA==",
+                    "size": "1.28 GB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
                     "name": "F-Server",
                     "url": "https://www.mediafire.com/file/w0qlsclnqwgiixn",
                     "size": "1.28 GB",
