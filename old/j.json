@@ -14,6 +14,16 @@
             "ongoing": false,
             "srcs": [
                 {
+                    "name": "Z-Stream",
+                    "url": "sUXXV3Or9NuFB6oFjcysMy7lqK3vYw0MAeyy59h7mD9KV4j55VDtrsMn+LXwnuRRjtoOjOnz4ZU3kHTY3VXqLk81tO3rlADduyxi7q03rEQ=",
+                    "size": "1.26 GB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
                     "name": "F-Server",
                     "url": "https://www.mediafire.com/file/ecd30ucc08g9rpr",
                     "size": "1.26 GB",
@@ -64,6 +74,16 @@
             "duration": "2h 11m",
             "ongoing": false,
             "srcs": [
+                {
+                    "name": "Z-Stream",
+                    "url": "sUXXV3Or9NuFB6oFjcysMy7lqK3vYw0MAeyy59h7mD9KV4j55VDh3Zi1CWlncN6bx4YF4Td3To4CksSJsXyhY3XJb/Mjj7TdUOqk3lPDj4VfCwBglzMWog==",
+                    "size": "1.24 GB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
                 {
                     "name": "F-Server",
                     "url": "https://www.mediafire.com/file/psrt5k3ac8zx612",
