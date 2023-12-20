@@ -14,6 +14,16 @@
             "ongoing": false,
             "srcs": [
                 {
+                    "name": "D-Stream",
+                    "url": "sUXXV3Or9NuFB6pAs7z6NdT+7u9Q5fF4219ECDsU0kFHMB1XCyhjPyeEDsZ6Li+oIlXU7Gq0nLY9+jQaHYi+7ftENPUcBpm7pbXtzlZebTDx/soC74Hm/C0asAYUAoVEw7a+0L5vMUFDmarNV4+X6sdmKcYy+BF5th86Raq822LyXKZB55WErJg+FUPyF5sExAkmc1HV0rs=",
+                    "size": "822 MB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
                     "name": "F-Server",
                     "url": "https://www.mediafire.com/file/vyy5jgybq1fq885",
                     "size": "822 MB",
@@ -47,7 +57,7 @@
             "srcs": [
                 {
                     "name": "D-Stream",
-                    "url": "sUXXV3Or9NuFB6pAs7z6NdT+7u9Q5fF4219ECDsU0kFHMB1XCyhjPyeEMNh6Iii1j6hhqxsruCJur0Swyjc3HC9kMErylhytcWwGOUFD9uLV8rOxqvtQloZm9hGCJEF70Z0+ywZQ6eKRC6eDaqvWZ/6xaFpPE5U48W+ne0MrnrVVPQFbMiAITv0ybYrznNFXTWeT/9rlrBE=",
+                    "url": "sUXXV3Or9NuFB6pAs7z6NdT+7u9Q5fF4219ECDsU0kFHMB1XCyhjPyeEMNh6Iii1j6hhqxsruCJur0Swyjc3HC9kMErylhytcWwGOUFD9uLV8rOxqvtQloZm9hGCJEF70Z0+ywZQ6eKRC6eDaqvWZ/6xaFpPE5U48W+ne0MrnrVVPQFbMiAITv0ybYrzjNFXTGPXqzf3iWM=",
                     "size": "1.30 GB",
                     "quality": "HD",
                     "direct": true,
