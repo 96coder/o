@@ -2,6 +2,47 @@
     "data": [
         {
             "p": false,
+            "title": "JUL-842",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/126.jpg"
+            },
+            "desc": "သူငယ်ချင်းရဲ့ မေမေလေးကို ကို ကြိတ်ကြံပြီး ကြာခိုတဲ့ဇာတ်လမ်းလေးပဲဖြစ်ပါတယ်",
+            "year": "2022",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/lr6ddp77zd497qd",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/3vr8wu83c41vurr",
+                    "size": "467MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "Censored",
+                "MMSub",
+                "Mother In Law"
+            ]
+        },
+        {
+            "p": false,
             "title": "PPPE-139",
             "img": {
                 "potrait": false,
